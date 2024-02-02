@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253852535559",
+    "project_id": "natureview2-4cc1a",
+    "storage_bucket": "natureview2-4cc1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253852535559:android:b8b6c250475ccaf7eed3a2",
+        "android_client_info": {
+          "package_name": "com.example.natureview2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByv_9wasA8S-IOts5TGuluADDZZS8TTNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
