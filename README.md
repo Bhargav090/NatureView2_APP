@@ -32,4 +32,4 @@ NatureView2 offers a Pro Membership for enthusiasts seeking a deeper connection 
 
 ## Video Preview
 
-[![Watch the NatureView2 App in Action](assets/screenshot.jpg)](assets/videomain.mp4)
+[Watch the NatureView2 App in Action](assets/videomain.mp4)
