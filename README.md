@@ -18,11 +18,11 @@ NatureView2 is a Flutter application that brings you breathtakingly beautiful ph
 
 ## Screenshots
 
-![Screenshot 1](assets/images/screenshort1.jpg)
-![Screenshot 2](assets/images/screenshort2.jpg)
-![Screenshot 3](assets/images/screenshort3.jpg)
-![Screenshot 4](assets/images/screenshort4.jpg)
-![Screenshot 5](assets/images/screenshort5.jpg)
+![Screenshot 1](assets/Screenshot1.jpg)
+![Screenshot 2](assets/Screenshot2.jpg)
+![Screenshot 3](assets/Screenshot3.jpg)
+![Screenshot 4](assets/Screenshot4.jpg)
+![Screenshot 5](assets/Screenshot5.jpg)
 
 ## Pro Membership
 
@@ -30,4 +30,4 @@ NatureView2 offers a Pro Membership for enthusiasts seeking a deeper connection 
 
 ## Video Preview
 
-[![Watch the NatureView2 App in Action](assets/images/thumbnail.jpg)](assets/images/screenrecord.mp4)
+[![Watch the NatureView2 App in Action](assets/images/thumbnail.jpg)](assets/videomain.mp4)
