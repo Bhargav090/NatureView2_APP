@@ -30,6 +30,3 @@ NatureView2 is a Flutter application that brings you breathtakingly beautiful ph
 
 NatureView2 offers a Pro Membership for enthusiasts seeking a deeper connection with nature through rare and mesmerizing photographs. Subscribe to the Pro Membership for an enhanced experience.
 
-## Video Preview
-
-![Video Preview](<img src="assets/videomain.gif" alt="Screenshot 1" width="170" height="400">)
