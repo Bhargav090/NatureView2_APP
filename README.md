@@ -32,4 +32,4 @@ NatureView2 offers a Pro Membership for enthusiasts seeking a deeper connection 
 
 ## Video Preview
 
-![Video Preview](assets/videomain.gif)
+![Video Preview](<img src="assets/videomain.gif" alt="Screenshot 1" width="170" height="400">)
